@@ -1,10 +1,8 @@
 # CareerGuide
-create a login Singup page 
+create a login Signup page with validation.
 
-<img width="626" alt="image" src="https://github.com/prince-111/CareerGuide/assets/88477312/cfe137aa-4e5f-4477-9d44-bc6b305058e7">
+<img width="457" alt="image" src="https://github.com/prince-111/CareerGuide/assets/88477312/458164cb-23ba-4c28-896a-5a5d6346c5c5">
 
-<img width="479" alt="image" src="https://github.com/prince-111/CareerGuide/assets/88477312/f2fcfeb1-8294-4d1e-af4e-ef8a0f4d31ad">
+<img width="514" alt="image" src="https://github.com/prince-111/CareerGuide/assets/88477312/edc96139-0440-470d-aa29-19d066fc8bcc">
 
-<img width="347" alt="image" src="https://github.com/prince-111/CareerGuide/assets/88477312/59f90bfc-7cc1-4261-927c-f74d1099ae0e">
-
-<img width="592" alt="image" src="https://github.com/prince-111/CareerGuide/assets/88477312/35072586-1d30-4ee8-88a2-ce222882d376">
+<img width="435" alt="image" src="https://github.com/prince-111/CareerGuide/assets/88477312/30d61e8e-c437-4947-a39f-436e0e4d51ab">
